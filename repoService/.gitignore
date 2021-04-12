@@ -1,0 +1,11 @@
+# Ambient
+venv
+.idea
+.env
+
+# Python
+**/__pycache__/*
+*.pyc
+
+# Migrations directories
+**/migrations/*
